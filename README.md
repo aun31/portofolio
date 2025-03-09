@@ -6,12 +6,18 @@ berikut adalah langkah langkah yang dilakukan pada file ini
 3. membaca dataset
 4. EDA
    a. menampilkan tabel jumlah duplikat
+   
    b. menampilkan kategori produk terlaris
+   
    c. menampilkan frekuensi kenaikan penjualan
-5. preprocessing
+   
+6. preprocessing
    a. data select (kolom KenaikanPenjualan dan kolom Kategori3)
+   
    b. data cleaning (nilai 0 kolom kenaikan penjualan menjadi rata rata dan menghapus kategori lainnya)
+   
    c. data transform (diubah ke one hot encoder)
-6. pencarian frequent itemset
-7. pembentukkan aturan asosiasi
-8. menampilkan aturan asosiasi dalam bentuk grafik
+   
+8. pencarian frequent itemset
+9. pembentukkan aturan asosiasi
+10. menampilkan aturan asosiasi dalam bentuk grafik
