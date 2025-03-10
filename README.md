@@ -4,7 +4,7 @@ berikut adalah langkah langkah yang dilakukan pada file TugasAkhir :
 1. import library yang digunakan
 2. menyambungkan google colab ke google drive
 3. membaca dataset
-4. EDA
+4. EDA (Exploratory Data Analysis)
    
    a. menampilkan tabel jumlah duplikat
    
@@ -24,7 +24,7 @@ berikut adalah langkah langkah yang dilakukan pada file TugasAkhir :
 9. pembentukkan aturan asosiasi
 10. menampilkan aturan asosiasi dalam bentuk grafik
 
-#TuBesAlgoritmaP
+# TuBesAlgoritmaP
 
 berikut adalah langkah langkah yang dilakukan pada file TuBesAlgoritmaP
 1. tampilan sambutan
