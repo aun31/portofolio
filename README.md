@@ -34,4 +34,15 @@ berikut adalah langkah langkah yang dilakukan pada file TuBesAlgoritmaP
 
 nb. pada tugas ini belum disambungkan ke database
 
+# UTS_S1IF-08-TI1_20102265
 
+barikut adalah laporan dari pengerjaan UTS keamanan jaringan, yaitu security testing pada website ampta.ac.id
+1. langkah dari foot reconnaissance menggunakan tools Whois sehingga terlihat port apa saja yang terbuka
+
+   langkah footprint menggunakan tools nmap memperlihatkan port apa saja yang terbuka
+2. a. menjelaskan informasi apa yang didapat, seperti port 143 adalah imap, kegunaan port ini yaitu memungkinkan
+  
+   mengggunakan email tanpa batas waktu dan lokasi
+
+   b. mencari dan menjelaskan vulnerable dari website yang di targetkan
+   
